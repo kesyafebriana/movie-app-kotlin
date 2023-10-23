@@ -16,7 +16,7 @@ To run the Movie App Kotlin on your Android device, follow these steps:
 
 1. **Download the APK**:
 
-   - Visit the [Releases](https://github.com/yourusername/Movie-App-Kotlin/releases) section of this repository.
+   - Visit the [Releases](https://github.com/kesyafebriana/Movie-App-Kotlin/releases) section of this repository.
    - Download the latest APK file available.
 
 2. **Install on Android Device**:
