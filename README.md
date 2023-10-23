@@ -8,7 +8,7 @@ Welcome to the (very) Simple Movie App Kotlin repository! This is a simple Andro
 - **Toolbar Menu**: Easily navigate the app with the built-in toolbar menu. You can log out or return to the movie list (recycle view) from anywhere in the app.
 - **Movie List**: Browse a collection of movies, each displayed with an image and movie title.
 - **Movie Detail**: Get in-depth information about a selected movie, including its genre and synopsis.
-- **Profile**: Customize your profile with your references.
+- **Profile**: There is all of references that i used=D
 
 ## Installation
 
